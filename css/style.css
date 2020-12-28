@@ -67,7 +67,8 @@ img{
     bottom: 0;
     left: 0;
     transform:rotate(90deg);
-    transform-origin: 55% 34%;
+    transform-origin: 55% 36%;
+    margin-top: 10px;
     margin-right: 2px;
 }
 .center-section{
@@ -79,6 +80,12 @@ img{
     justify-content: center;
     text-align: center;
     margin-top:100px;
+    font-family: 'Montserrat Alternates', sans-serif;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 200;
+    line-height: 17px;
+    
 }
 
 @media(min-width:768px){
